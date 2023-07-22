@@ -1,0 +1,19 @@
+{
+  "name": "@lyubasm/ajs-first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LyubasM/ajs-first.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LyubasM/ajs-first/issues"
+  },
+  "homepage": "https://github.com/LyubasM/ajs-first#readme"
+}
